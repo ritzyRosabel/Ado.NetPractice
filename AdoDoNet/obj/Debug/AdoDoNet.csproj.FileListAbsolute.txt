@@ -1,0 +1,11 @@
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\AdoDoNet.exe.config
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\AdoDoNet.exe
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\AdoDoNet.pdb
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\EntityFramework.dll
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\EntityFramework.xml
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\obj\Debug\AdoDoNet.csprojAssemblyReference.cache
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\obj\Debug\AdoDoNet.csproj.CopyComplete
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\obj\Debug\AdoDoNet.exe
+C:\Users\Ritzy_Rosabel\source\repos\AdoDoNet\AdoDoNet\obj\Debug\AdoDoNet.pdb
